@@ -4,7 +4,7 @@
   border-radius: 3px !important;
   height: 2px !important;
   transform: translateY(+24px);
-  background-color: rgba(200, 200, 200, 200) !important;
+  background-color: var(--zen-input-border-color) !important;
 }
 
 @media not (-moz-bool-pref: "zen.view.sidebar-expanded") {
